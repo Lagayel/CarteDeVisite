@@ -88,7 +88,7 @@ fun CarteDeVisite() {
 
         Column (
             horizontalAlignment = Alignment.Start,
-            verticalArrangement = Arrangement.Bottom
+            verticalArrangement = Arrangement.spacedBy(8.dp)
         ){
             Row(
                 verticalAlignment = Alignment.CenterVertically
