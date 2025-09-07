@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarteDeVisite</string>
+    <string name="fullname">COULIBALY LAGAYEL ARMEL DYLAN</string>
+    <string name="title">Developpeur mobile</string>
+    <string name="title1">Developpeur</string>
+    <string name="telephone">+255 01 01 63 28 88</string>
+    <string name="email">lagayelcoulibaly@gmail.com</string>
+    <string name="socials">\@lagayel</string>
+    <string name="logo_description">Logo Android</string>
+    <string name="email_description">Email Icon</string>
+    <string name="socials_description">Socials Icon</string>
+    <string name="phone_description">Phone Icon</string>
+</resources>
